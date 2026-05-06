@@ -46,7 +46,9 @@ Es fácil confundirse, pero la clave está en esto:
 
 ## Valoraciones personales
 
-Después de estudiar estos casos, me doy cuenta de que la hibridación está en casi todo lo que usamos hoy en día. Me parece muy potente cómo el software permite que cosas que antes no tenían nada que ver (como escribir un texto y editar una foto) ahora trabajen juntas. Como estudiante, creo que esto nos obliga a no pensar solo en "hacer una web" o "hacer un vídeo", sino en cómo crear experiencias que mezclen diferentes lenguajes para que sean más útiles y fáciles de usar.
+Tras el análisis de estos casos, se evidencia que la hibridación es el motor fundamental de la cultura digital contemporánea. Resulta fascinante observar cómo el software ha logrado disolver las fronteras entre medios que históricamente no guardaban relación, permitiendo que operen bajo una misma lógica algorítmica y estructural.
+
+Como futuro profesional del ámbito multimedia, considero que este cambio de paradigma nos obliga a evolucionar en nuestra forma de trabajar: ya no se trata únicamente de producir formatos aislados o productos "multimedia" convencionales, sino de entender el metamedio ordenador como un espacio para diseñar experiencias híbridas que generen lenguajes nuevos. En definitiva, la hibridación no es una simple remezcla técnica, sino una evolución que nos permite representar y navegar nuestra realidad —ya sea a través de la IA generativa o de los Digital Twins— de una manera mucho más profunda, funcional y conectada.
 
 ---
 
