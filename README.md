@@ -10,43 +10,43 @@
 ## Planteamiento
 
 ### ¿Qué es la hibridación de medios?
-Siguiendo la evolución del **metamedio** planteado por **Alan Kay y Adele Goldberg (1977)**, la hibridación representa el estadio donde el software permite que medios anteriormente separados se fusionen en una **"nueva gestalt" (Manovich, 2013, p. 234)**. No es una simple "remezcla" de contenidos, sino una evolución donde las interfaces y las presuposiciones de cada medio se combinan para ofrecer una experiencia coherente que es distinta a experimentar los elementos por separado.
+Para entender la hibridación, primero hay que recordar lo que **Alan Kay y Adele Goldberg (1977)** llamaron **metamedio**: la idea de que el ordenador no es solo una herramienta, sino un sitio donde los medios pueden mezclarse y crear cosas nuevas. Según **Manovich (2013)**, la hibridación no es simplemente poner un vídeo al lado de un texto (eso sería multimedia), sino que es cuando diferentes medios se fusionan tan a fondo que crean una **"nueva gestalt" (Manovich, 2013, p. 234)**, es decir, una experiencia nueva que no se puede separar.
 
-### ¿Cómo reconocerla y distinguirla de la multimedia o remediación?
-Para no caer en un análisis superficial, debemos distinguir tres conceptos clave:
-1. **Remediación:** Un medio representa a otro anterior (ej: el ebook remediando al libro físico), basándose en la idea de **Bolter y Grusin (1999)**.
-2. **Multimedia:** Es una yuxtaposición; los medios coexisten "uno al lado del otro" sin transformar su lógica interna.
-3. **Hibridación:** Es una mutación. Se reconoce porque las técnicas exclusivas de un medio (como el zoom en fotografía o la búsqueda en bases de datos) se aplican a otros, creando un **nuevo lenguaje** y, a menudo, una nueva **plataforma de medios**.
+### ¿Cómo reconocerla y distinguirla de otros conceptos?
+Es fácil confundirse, pero la clave está en esto:
+1. **Remediación:** Es cuando lo digital copia lo antiguo, como un libro electrónico que intenta parecerse a uno de papel **(Bolter y Grusin, 1999)**.
+2. **Multimedia:** Es solo "juntar" cosas (imagen + audio) sin que cambien entre ellas.
+3. **Hibridación:** Es una evolución. Los medios se "apropian" de técnicas de otros. Por ejemplo, cuando usamos herramientas de búsqueda de una base de datos para navegar por una película o un mapa 3D.
 
 ---
 
 ## Re-descubriendo la hibridacion: Caso 1
-### Adobe Firefly: La hibridación de algoritmos y lenguaje
+### Adobe Firefly: Cuando escribir se convierte en dibujar
 
-**Funcionamiento y medios:** Adobe Firefly hibrida la **edición de mapas de bits** con el **procesamiento de lenguaje natural (NLP)**. No es un caso de multimedia porque el texto no acompaña a la imagen, sino que el texto *genera y muta* la estructura de datos de los píxeles en tiempo real.
+**¿Cómo funciona?** Adobe Firefly mezcla la edición de fotos de toda la vida con la Inteligencia Artificial que entiende lo que escribimos (NLP). No es multimedia porque el texto no está ahí para leerlo, sino que sirve para "darle órdenes" a los píxeles y que cambien según lo que pedimos.
 
-**Análisis de hibridación según Manovich:**
-* **Estrategia de hibridación:** Se identifica una hibridación por **mutación**. El lenguaje (texto) deja de ser un medio de lectura para convertirse en una técnica de control sobre la imagen. 
-* **Técnicas independientes del medio:** Aquí el algoritmo de IA actúa como una técnica transversal. El "prompt" es una técnica lingüística aplicada a una estructura de datos visual.
-* **Estética y representación:** Crea una estética de "realismo sintético". Es una evolución del medio fotográfico hacia una nueva plataforma donde la imagen es **variable y modular**, permitiendo nuevas maneras de interaccionar con la creatividad técnica.
+**Análisis con Manovich:**
+* **¿Qué tipo de hibridación es?:** Yo diría que es una **hibridación por mutación**. El lenguaje deja de ser solo letras y pasa a ser una herramienta para crear imágenes.
+* **Técnicas nuevas:** Lo que me parece más interesante es que el algoritmo de IA funciona como una técnica que sirve para todo. El "prompt" (la frase que escribimos) es una técnica del lenguaje aplicada directamente a una imagen.
+* **Estética:** Se crea un estilo muy realista pero que en verdad es artificial. Como dice **Manovich (2013)**, esto es una evolución porque la imagen ya no es algo fijo, sino algo que podemos cambiar y rehacer constantemente con palabras.
 
 ---
 
 ## Re-descubriendo la hibridacion: Caso 2
-### Virtual Singapore: El Gemelo Digital como interfaz híbrida
+### Virtual Singapore: Un mapa que está "vivo"
 
-**Funcionamiento y medios:** Este proyecto incorpora **modelado 3D (BIM)**, **visualización de datos (Big Data)** y flujos dinámicos de **IoT**. 
+**¿Cómo funciona?** Este proyecto junta tres cosas: modelos de edificios en 3D (BIM), muchísimos datos de la ciudad (Big Data) y sensores que mandan información en tiempo real (IoT). 
 
-**Análisis de hibridación según Manovich:**
-* **¿Evolución o remezcla?:** Es una evolución clara hacia un **metamedio espacial**. Ya no es un mapa (remediación); es una base de datos navegable en 3D.
-* **Nuevas formas de interacción:** La hibridación se produce en la interfaz de usuario. Al navegar por el espacio 3D, el usuario interactúa simultáneamente con capas de datos dinámicos. Esto crea una **manera nueva de interaccionar con el medio**: el espacio físico se convierte en una interfaz de datos.
-* **Técnicas específicas:** La técnica de la "navegación por cámara" (propia del cine y videojuegos) se aplica a una "base de datos analítica" (propia del software estadístico). Esta fusión genera una nueva gestalt donde el dato es el territorio.
+**Análisis con Manovich:**
+* **¿Evolución o remezcla?:** Claramente es una evolución. Ya no es un mapa de papel pasado al ordenador; es una plataforma nueva donde puedes moverte por la ciudad y ver datos a la vez.
+* **Nuevas formas de interactuar:** La hibridación aquí se ve en la interfaz. Mientras vas "caminando" por el modelo 3D, el programa te va enseñando capas de datos (tráfico, luz, calor). 
+* **Técnicas específicas:** Se mezcla la forma de moverse de un videojuego con la forma de analizar datos de un programa de estadística. Como dice **Manovich (2013, cap. 3)**, esto crea una experiencia donde los datos y el espacio físico se vuelven la misma cosa.
 
 ---
 
 ## Valoraciones personales
 
-Desde mi punto de vista, estos casos demuestran que el software no solo ha tomado el mando, sino que ha disuelto las fronteras entre disciplinas. La hibridación de Firefly cambia nuestra percepción de la "autoría", mientras que Virtual Singapore redefine nuestra relación con el entorno urbano. Como estudiante de Multimedia, entiendo que ya no diseñamos "objetos", sino que diseñamos **interfaces híbridas** que combinan algoritmos, estética y datos en una experiencia única.
+Después de estudiar estos casos, me doy cuenta de que la hibridación está en casi todo lo que usamos hoy en día. Me parece muy potente cómo el software permite que cosas que antes no tenían nada que ver (como escribir un texto y editar una foto) ahora trabajen juntas. Como estudiante, creo que esto nos obliga a no pensar solo en "hacer una web" o "hacer un vídeo", sino en cómo crear experiencias que mezclen diferentes lenguajes para que sean más útiles y fáciles de usar.
 
 ---
 
@@ -60,4 +60,3 @@ Desde mi punto de vista, estos casos demuestran que el software no solo ha tomad
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
