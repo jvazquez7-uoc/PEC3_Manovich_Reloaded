@@ -5,7 +5,7 @@
 **Autor:** Jose Antonio Vázquez González  
 **Fecha:** Mayo de 2026  
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+https://ibb.co/hRFVFnHr
 
 ## Planteamiento
 
