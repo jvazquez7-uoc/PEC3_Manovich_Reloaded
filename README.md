@@ -5,7 +5,7 @@
 **Autor:** Jose Antonio Vázquez González  
 **Fecha:** Mayo de 2026  
 
-![Mi propia imagen]([fae73013-68b2-4f64-ad7f-b2b96ede7ffa.png](https://postimg.cc/5QYpjn3N))
+![Imagen de mi proyecto](https://i.postimg.cc/sxKL6LGS/fae73013-68b2-4f64-ad7f-b2b96ede7ffa.png)
 ## Planteamiento
 
 ### ¿Qué es la hibridación de medios?
