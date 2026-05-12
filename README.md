@@ -38,7 +38,7 @@ Desde el punto de vista de la estética, Manovich argumenta que la hibridación 
 
 ## Re-descubriendo la hibridación: Caso 2
 
-### Virtual Singapore: Un mapa que está "vivo"
+### Digital Twins: Un mapa que está "vivo"
 
 El proyecto **Virtual Singapore** es un ejemplo de lo que Manovich describe como la evolución de los metamedios hacia formas complejas de representación espacial. No se trata simplemente de un modelo 3D de la ciudad, es un **"Gemelo Digital" (Digital Twin)** que hibrida el Modelado de Información de Construcción (BIM), los datos geoespaciales y el flujo constante de información proveniente de sensores en tiempo real (Internet de las Cosas o IoT). Esta plataforma trasciende la visualización tradicional para convertirse en un ecosistema operativo donde el software es el tejido conector.
 
