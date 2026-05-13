@@ -59,7 +59,7 @@ Como futuro profesional del ámbito multimedia, considero que este cambio de par
 ## Referencias y Bibliografía
 
 * **Bolter, J. D., y Grusin, R. (1999).** *Remediation: Understanding New Media*. MIT Press.
-* **Gea, M. (2023).** *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Universitat de Granada.
+* **Gea, M. (2023).** *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Universidad de Granada.
 * **Kay, A., y Goldberg, A. (1977).** *Personal Dynamic Media*. Computer Magazine, 10(3), 31-41.
 * **Manovich, Lev. (2013).** *El Software toma el mando*. Barcelona: Editorial UOC.
 
